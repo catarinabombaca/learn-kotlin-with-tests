@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="PersonTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-10-09T13:58:39" hostname="Catarinas-MacBook-Pro.local" time="0.023">
+<testsuite name="PersonTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-10-09T16:10:26" hostname="Catarinas-MacBook-Pro.local" time="0.018">
   <properties/>
-  <testcase name="given a person I get the information of their name and surname()" classname="PersonTest" time="0.023"/>
-  <system-out><![CDATA[]]></system-out>
+  <testcase name="when creating a child, then the child is automatically associated to their parent()" classname="PersonTest" time="0.018"/>
+  <system-out><![CDATA[Hi, my name is Catarina Bombaca.
+Hi, my name is Wenqing Bombaca.
+]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
